@@ -1,0 +1,12 @@
+23.81.56.212:29842:ppuri:vd6BfzMr
+23.108.18.59:29842:ppuri:vd6BfzMr
+23.81.55.127:29842:ppuri:vd6BfzMr
+23.108.16.79:29842:ppuri:vd6BfzMr
+172.241.169.213:29842:ppuri:vd6BfzMr
+172.241.168.67:29842:ppuri:vd6BfzMr
+23.81.56.10:29842:ppuri:vd6BfzMr
+23.108.18.24:29842:ppuri:vd6BfzMr
+23.81.55.169:29842:ppuri:vd6BfzMr
+23.108.16.217:29842:ppuri:vd6BfzMr
+172.241.169.174:29842:ppuri:vd6BfzMr
+
